@@ -1,10 +1,3 @@
-# khoji
-## About The Project
-Lightweight JavaScript library for DOM manipulation
-
-### Usage
-
-```JS
     // For single element
 
     // Direct search
@@ -27,4 +20,3 @@ Lightweight JavaScript library for DOM manipulation
     document.body.sabKhoj("div").phir((elements) => {
         console.log(elements);
     });
-```
